@@ -2,7 +2,7 @@ body{
   background-color: white;
 }
 .text1{
-  border-style: dashed;
+  border-style: dotted;
   border-color: purple;
   color: black;
   padding-top: 150px;
