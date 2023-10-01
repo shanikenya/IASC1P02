@@ -1,0 +1,23 @@
+#div1{
+  background-color: green;
+
+}
+#div2{
+  border-style: dotted;
+  border-color: black;
+  text-align: left;
+  margin-top: 20px;
+  margin-left:10px;
+  margin-right: 10px;
+  padding: 20px;
+}
+.text1{
+  color: red;
+  text-align: left;
+}
+.green{
+  color: darkgreen;
+}
+.purpletext{
+  color: purple;
+}
