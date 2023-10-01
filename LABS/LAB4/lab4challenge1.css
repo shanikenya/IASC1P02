@@ -11,12 +11,12 @@ body{
 }
 .lab4{
   border-style: solid;
-  margin: 150px 150px 250px 150px
+  margin: 100px 150px 250px 150px
 }
 
 img{
-  width: 250px;
-  height: 400px;
+  width: 150px;
+  height: 300px;
   border-style: dashed;
   border-color: yellow;
   padding: 15px;
