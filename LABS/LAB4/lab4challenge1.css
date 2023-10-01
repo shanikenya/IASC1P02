@@ -15,8 +15,8 @@ body{
 }
 
 img{
-  width: 150px;
-  height: 300px;
+  width: 100px;
+  height: 200px;
   border-style: dashed;
   border-color: yellow;
   padding: 15px;
