@@ -1,0 +1,35 @@
+body{
+  background-color: white;
+}
+.text1{
+  border-style: dashed;
+  border-color: purple;
+  color: black;
+  padding-top: 150px;
+  padding-bottom: 20px;
+  text-align: center;
+  font-size: 12px;
+}
+.greentext{
+  color: green;
+  text-align: center;
+  font-size: 8px;
+}
+.abovetext{
+  color: orange;
+  text-align: left;
+  font-size: 30px;
+}
+.smalltext{
+  text-align: right;
+  font-size: 8px;
+  color: purple;
+}
+#red{
+  color: red;
+  vertical-align: super;
+}
+#purple{
+  color: yellow;
+  text-transform: uppercase;
+}
