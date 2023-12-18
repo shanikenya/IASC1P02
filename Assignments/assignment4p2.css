@@ -1,0 +1,122 @@
+body {
+  padding: 25px;
+  background-color: black;
+  color: black;}
+
+  h1{
+  font-size: 85px;
+  font-family: sans-serif; helvetica;
+  text-align: center;
+  text-decoration-style: wavy;
+  text-shadow: 4px 4px #A3def5;
+}
+div{
+  font-family: sans-serif; helvetica
+  font-size: 106px;
+  text-align: center;
+
+}
+.mymove{
+  width: 100px;
+  height: 100px;
+  color: black;
+  font-size: 50px;
+  font-family: sans-serif; helvetica;
+  text-align: left;
+  position: relative;
+  font-weight: bolder;
+  white-space: nowrap;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  0%   {right: 50px;}
+  25%  {right: 600px;}
+  75%  {left: 50px}
+  100% {left: 600px;}
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
+.lights {
+  background-color: #black;
+  color: white;
+  padding: 16px;
+  font-size: 19px;
+  border: solid;
+  font-family: sans-serif; helvetica
+  }
+
+.container {
+position: relative;
+width: 50%;
+margin:auto;
+}
+
+.image {
+display: block;
+width: 70%;
+height: auto;
+margin: auto;
+}
+
+.overlay {
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0;
+background-color: black;
+overflow: hidden;
+width: 0;
+height: 100%;
+transition: .5s ease;
+}
+
+.container:hover .overlay {
+width: 100%;
+}
+
+.text {
+color: white;
+font-size: 70px;
+position: absolute;
+top: 50%;
+left: 50%;
+-webkit-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+white-space: nowrap;
+}
+.text2{
+  padding-top: 350px;
+  color: white;
+}
+.text3{
+  padding-top: 200px;
+  color: white;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 70px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  font-family: sans-serif; helvetica
+
+}

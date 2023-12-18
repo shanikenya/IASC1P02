@@ -1,0 +1,55 @@
+body{
+background-color: #A9dcee;
+}
+#header1{
+  border-style: solid;
+  border-width: 25px;
+  border-color: #054C9E;
+  color: #054C9E;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 380px;
+  margin-left: 60px;
+  margin-right: 60px;
+  font-family: sans-serif; helvetica;
+
+}
+#div1{
+  background-color:#054C9E;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #054C9E;
+  color: white;
+  text-align: center;
+  font-size: 380px;
+  margin-left:-10px;
+  margin-right:-10px;
+  font-family: sans-serif; helvetica;
+}
+
+#header3{
+  border-style: solid;
+  border-width: 25px;
+  border-color: #054C9E;
+  color: #054C9E;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 380px;
+  margin-left: -10px;
+  margin-right: -10px;
+  font-family: sans-serif; helvetica;
+}
+
+  #div2{
+  background-image: url("https://www.foreo.com/mysa/wp-content/uploads/sites/2/2019/11/unique-skincare-diagram.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+#para1{
+font-size: 50px;
+font-family: monospace; monaco;
+color: darkblue;
+}

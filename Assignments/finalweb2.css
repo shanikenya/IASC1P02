@@ -1,0 +1,77 @@
+body {
+  background-color: #001f3f; /* Dark Blue Background */
+  color: #fff; /* White Text */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+button {
+  background-color: #0074cc; /* Blue Button Color */
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+#lightsButton {
+  background-color: #0074cc; /* Blue Button Color */
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#lightsOn {
+  background-color: #87CEEB; /* Light Blue Background */
+}
+body {
+  background-color: #001f3f; /* Dark Blue Background */
+  color: #fff; /* White Text */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+}
+
+#routineTitle {
+  color: #001f3f; /* Dark Blue Color */
+}
+
+.routineStep {
+  background-color: #0074cc; /* Blue Background for Routine Steps */
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+#lightsOn {
+  background-color: #87CEEB; /* Light Blue Background */
+}
+#more {
+  display: none;}
+#img1{
+  margin-left: 60px;
+  margin-right: 60px;
+  width: 300px;
+  height: 370px;
+  padding: 15px;
+  float: right;
+}
